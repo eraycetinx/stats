@@ -3,7 +3,7 @@
 # How to use this repository
 
 ### Clone repository
-`https://github.com/eraycetinx/stats.git`
+`git clone https://github.com/eraycetinx/stats.git`
 
 ### Install dependencies
 `npm install`
